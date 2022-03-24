@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-db_presto-0_5_0": "src-db_presto-0_5_0"
+        "src-presto-0_5_0": "src-presto-0_5_0"
       }
     },
-    "src-db_presto-0_5_0": {
+    "src-presto-0_5_0": {
       "flake": false,
       "locked": {
         "lastModified": 1505411254,
