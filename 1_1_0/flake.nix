@@ -11,6 +11,7 @@
   inputs.src-db_presto-1_1_0.ref   = "refs/tags/1.1.0";
   inputs.src-db_presto-1_1_0.owner = "Bennyelg";
   inputs.src-db_presto-1_1_0.repo  = "nimPresto";
+  inputs.src-db_presto-1_1_0.dir   = "";
   inputs.src-db_presto-1_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
