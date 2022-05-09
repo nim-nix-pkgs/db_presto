@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/Bennyelg/nimPresto",
   "refs": [
-    "fatal: unable to access 'https://github.com/Bennyelg/nimPresto/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/Bennyelg/nimPresto/': Failed to connect to github.com port 443 after 129317 ms: Network is unreachable",
     ""
   ],
   "heads": []
